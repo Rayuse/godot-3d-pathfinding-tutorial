@@ -1,1 +1,1 @@
-# 3rd-person-controller-full-gamepad-support
+# Godot 3d pathfinding tutorial
